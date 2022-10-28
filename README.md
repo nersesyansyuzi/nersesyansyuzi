@@ -4,6 +4,7 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/syuzanna-nersesyan-a08293249/"><img align="left" alt="nersesyansyuzi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /><a/>
+<a href="https://www.instagram.com/nersesyan03/"><img align="left" alt="nersesyansyuzi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  /><a/>
 <br/>
 
 ### Languages and Tools:
